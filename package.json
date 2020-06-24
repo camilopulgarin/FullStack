@@ -1,0 +1,19 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Ejercicio de node y git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilopulgarin/FullStack.git"
+  },
+  "author": "Andres Camilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilopulgarin/FullStack/issues"
+  },
+  "homepage": "https://github.com/camilopulgarin/FullStack#readme"
+}
